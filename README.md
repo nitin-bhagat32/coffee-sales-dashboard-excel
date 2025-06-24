@@ -24,9 +24,8 @@ To visualize and interpret Indian Coffee House’s sales data using Excel, ident
 ## 📂 Project Files
 
 1. **Raw_DataSet.xlsx** – Original transaction-level dataset  
-2. **Excel File.xlsx** – Working file with four sheets:
-   - `Raw_DataSet`
-   - `Cleaned_DataSet`
+2. **Excel File.xlsx** – Working file with three sheets:
+   - `Cleaned_DataSet + Pivot`
    - `Pivot_Table`
    - `Dashboard` (interactive Excel dashboard)  
 3. **Business Insights from Sales Data.pptx** – PowerPoint presentation with visuals and key takeaways  
