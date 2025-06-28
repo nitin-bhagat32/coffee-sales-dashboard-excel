@@ -28,8 +28,9 @@ To visualize and interpret Indian Coffee House’s sales data using Excel, ident
    - `Cleaned_DataSet + Pivot`
    - `Pivot_Table`
    - `Dashboard` (interactive Excel dashboard)  
-3. **Business Insights from Sales Data.pptx** – PowerPoint presentation with visuals and key takeaways  
-4. **Dashboard.png** – Final dashboard View
+3. **Business Insights from Sales Data.pptx** – PowerPoint presentation with visuals and key takeaways
+    > 📥 To open the PPT file: click on it in the repo, then click **`View raw`** – it will auto-download.
+5. **Dashboard.png** – Final dashboard View
 
 ---
 
